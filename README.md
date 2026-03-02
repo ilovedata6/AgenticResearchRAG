@@ -346,19 +346,6 @@ docker compose up --build -d
 
 ---
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=jamwithai/production-agentic-rag-course&type=Date)](https://star-history.com/#jamwithai/production-agentic-rag-course&Date)
-
----
-
-## Authors
-
-Built by [Shirin Khosravi Jam](https://www.linkedin.com/in/shirin-khosravi-jam/) and [Shantanu Ladhwe](https://www.linkedin.com/in/shantanuladhwe/).
-
-Technical write-ups on the [JamWithAI Substack](https://jamwithai.substack.com/).
-
----
 
 ## License
 
